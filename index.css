@@ -1,0 +1,17 @@
+#p1{
+    width:100px;
+    height:100px;
+    background: red;
+    font-size:85px;
+    text-align:center;
+    margin:0px;
+}
+
+@keyframes MyColorAnimation{
+    0%{background-color: red;}
+    20%{background-color: purple}
+    40%{background-color: yellow;} 
+    60%{background-color: blue;}
+    80%{background-color: green;} 
+    100%{background-color: orange;
+}
